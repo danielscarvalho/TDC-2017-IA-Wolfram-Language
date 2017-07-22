@@ -4,7 +4,8 @@ The Developers Conference 2017 Workshop IA com Wolfram Language
 
 ## Material do Workshop apresentado no TDC 2017
 
-- [The Developers Conferenc - TDC](http://www.thedevelopersconference.com.br)
+- [The Developers Conference - TDC](http://www.thedevelopersconference.com.br)
+- [Workshop](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/workshop-inteligencia-artificial-com-wolfram-language)
 
 Para executar o material utilize o [Mathematica](https://www.wolfram.com/mathematica/) ou baixe gratuitamente o [CDF Player](https://www.wolfram.com/cdf-player/) para visualização
 
