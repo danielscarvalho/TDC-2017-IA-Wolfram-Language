@@ -6,8 +6,11 @@ The Developers Conference 2017 Workshop IA com Wolfram Language
 
 - [The Developers Conferenc - TDC](http://www.thedevelopersconference.com.br)
 
-Para executar o material utilize o [Mathematica](https://www.wolfram.com/mathematica/) ou baixe graduitamente o [CDF Player](https://www.wolfram.com/cdf-player/) para visualização
+Para executar o material utilize o [Mathematica](https://www.wolfram.com/mathematica/) ou baixe gratuitamente o [CDF Player](https://www.wolfram.com/cdf-player/) para visualização
 
-É possível também carregar os arquivos *.nb* no [Wolfram Cloud - WOLFRAM DEVELOPMENT PLATFORM](https://www.wolframcloud.com/)
+É possível também carregar os arquivos fonte notebook *.nb* no [Wolfram Cloud - WOLFRAM DEVELOPMENT PLATFORM](https://www.wolframcloud.com/)
 
 Por [Daniel Caralho](https://twitter.com/danielscarvalho)
+
+Para aprender sobre Wolfram Language:
+- [Elementary Introduction to Wolfram Language](https://www.wolfram.com/language/elementary-introduction/2nd-ed/)
