@@ -11,7 +11,7 @@ Para executar o material utilize o [Mathematica](https://www.wolfram.com/mathema
 
 É possível também carregar os arquivos fonte notebook *.nb* no [Wolfram Cloud - WOLFRAM DEVELOPMENT PLATFORM](https://www.wolframcloud.com/)
 
-Por [Daniel Caralho](https://twitter.com/danielscarvalho)
+Por [Daniel Carvalho](https://twitter.com/danielscarvalho)
 
 Para aprender sobre Wolfram Language:
 - [Elementary Introduction to Wolfram Language](https://www.wolfram.com/language/elementary-introduction/2nd-ed/)
